@@ -14,7 +14,8 @@
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
   <a href="#physics">Physics</a> •
-  <a href="#license">License</a>
+  <a href="#license">License</a> •
+  <a href="README_CN.md">中文</a>
 </p>
 
 <p align="center">
